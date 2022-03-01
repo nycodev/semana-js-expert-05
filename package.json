@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "pino": "6.8",
+    "pino-pretty": "5.1",
+    "socket.io": "4.1"
+  }
+}
